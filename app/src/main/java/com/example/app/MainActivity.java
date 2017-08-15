@@ -13,6 +13,7 @@ import com.example.app.view.LoadingDialog;
 import com.example.app.view.PhotoDialog;
 
 public class MainActivity extends AppCompatActivity {
+//    上下文对象
     private MainActivity selfActivity = MainActivity.this;
 
     private HintDialog hintDialog = new HintDialog(); // 提示框
